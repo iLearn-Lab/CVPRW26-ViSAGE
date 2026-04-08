@@ -11,10 +11,12 @@
 [![Demo](https://img.shields.io/badge/Demo-Online-green.svg)](https://github.com/iLearn-Lab/CVPRW26-ViSAGE)
 [![License](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](./LICENSE)
 
-**Kun Wang**<sup>1</sup>, **Yupeng Hu**<sup>1</sup>, **Zhiran Li**<sup>1</sup>, **Hao Liu**<sup>1</sup>, **Qianlong Xiang**<sup>2</sup>, **Liqiang Nie**<sup>2</sup>
+**Kun Wang**<sup>1</sup>, **Yupeng Hu**<sup>1</sup>, **Zhiran Li**<sup>1</sup>, **Hao Liu**<sup>1</sup>, **Qianlong Xiang**<sup>2,3,4</sup>, **Liqiang Nie**<sup>2</sup>
 
 <sup>1</sup> School of Software, Shandong University, Jinan, China  
 <sup>2</sup> School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China
+<sup>3</sup> City University of Hong Kong  
+<sup>4</sup> Shenzhen Loop Area Institute
 
 </div>
   
