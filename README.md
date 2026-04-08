@@ -267,10 +267,10 @@ If you find this project useful for your research, please consider citing:
 
 ```bibtex
 @inproceedings{ntire26visage, 
-title={{    ViSAGE @ NTIRE 2026 Challenge on Video Saliency PredictionNTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results    }}, 
-author={    Kun Wang, Yupeng Hu and  Zhiran Li, Hao Liu,  Qianlong Xiang and Liqiang Nie    },   
-booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},  
-year = {2026} 
+  title={ViSAGE @ NTIRE 2026 Challenge on Video Saliency PredictionNTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results}, 
+  author={Kun Wang, Yupeng Hu and  Zhiran Li, Hao Liu,  Qianlong Xiang and Liqiang Nie},   
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},  
+  year = {2026} 
 }
 ```
 
