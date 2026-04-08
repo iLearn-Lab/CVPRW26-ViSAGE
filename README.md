@@ -1,12 +1,14 @@
 <div align="center">
 
-# 🚀 ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction (CVPR 2026)
+# 🚀 ViSAGE @ CVPR-NTIRE Video Saliency Prediction Challenge 2026
 
 ### Official PyTorch Implementation of **"ViSAGE"**
 
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxxx)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://your-project-page.github.io/)
-[![Demo](https://img.shields.io/badge/Demo-Online-green.svg)](https://your-demo-link.com)
+[![Page](https://img.shields.io/badge/Challenge-Page-blue)](https://www.codabench.org/competitions/12842/)
+[![Challenges](https://img.shields.io/badge/Challenges-NTIRE%202026-orange)](https://cvlai.net/ntire/2026/)
+[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b.svg)](https://arxiv.org)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://github.com/iLearn-Lab/CVPRW26-ViSAGE)
+[![Demo](https://img.shields.io/badge/Demo-Online-green.svg)](https://github.com/iLearn-Lab/CVPRW26-ViSAGE)
 [![License](https://img.shields.io/badge/License-Apache_2.0-orange.svg)](./LICENSE)
 
 **Kun Wang**<sup>1</sup>, **Yupeng Hu**<sup>1</sup>, **Zhiran Li**<sup>1</sup>, **Hao Liu**<sup>1</sup>, **Qianlong Xiang**<sup>2</sup>, **Liqiang Nie**<sup>2</sup>
