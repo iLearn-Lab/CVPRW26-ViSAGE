@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <video src="assets/ilearnvideo.mp4" controls width="95%"></video>
+  <video src="https://github.com/user-attachments/assets/a2dbabc0-9d8e-4f7a-8b16-c2d56af7b071" controls width="95%"></video>
 </p>
 
 
@@ -107,7 +107,7 @@ Our method consists of three main components:
 ### Video Examples
 
 <p align="center">
-  <video src="assets/ilearnvideo.mp4" controls width="95%"></video>
+  <video src="https://github.com/user-attachments/assets/a2dbabc0-9d8e-4f7a-8b16-c2d56af7b071" controls width="95%"></video>
 </p>
 
 ---
