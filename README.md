@@ -13,8 +13,8 @@
 
 **Kun Wang**<sup>1</sup>, **Yupeng Hu**<sup>1</sup>, **Zhiran Li**<sup>1</sup>, **Hao Liu**<sup>1</sup>, **Qianlong Xiang**<sup>2,3,4</sup>, **Liqiang Nie**<sup>2</sup>
 
-<sup>1</sup> School of Software, Shandong University, Jinan, China  
-<sup>2</sup> School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China
+<sup>1</sup> Shandong University
+<sup>2</sup> Harbin Institute of Technology
 <sup>3</sup> City University of Hong Kong  
 <sup>4</sup> Shenzhen Loop Area Institute
 
@@ -121,7 +121,7 @@ Our method consists of three main components:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/iLearn-Lab/ViSAGE.git
+git clone https://github.com/iLearn-Lab/CVPRW26-ViSAGE.git
 cd ViSAGE
 ```
 
@@ -162,7 +162,7 @@ ViSAGE/
 
 ## 💾 Checkpoints
 
-The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1qePuGCeaCudEkx0uauX2BblRlno9lHmv?usp=sharing).
+The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1qePuGCeaCudEkx0uauX2BblRlno9lHmv?usp=sharing) & [Hugging Face](https://huggingface.co/iLearn-Lab/CVPRW26-ViSAGE).
 
 ---
 
